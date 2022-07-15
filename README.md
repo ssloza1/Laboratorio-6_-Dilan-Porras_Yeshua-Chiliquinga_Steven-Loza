@@ -32,12 +32,12 @@ FECHA
 ## 1. OBJETIVOS:
 
 #### 1.1 OBJETIVO GENERAL:
-•	Analizar y desarrollar ejercicios de circuitos eléctricos aplicados a el teorema de Thevenin para la descomposición de sus características las cuales permiten a las personas calcular de mejor manera y mas simplificada la variable desconocida mediante el uso de información teórica.
+•	Analizar y desarrollar ejercicios de circuitos eléctricos aplicados a la teoria de maxima transferencia de potencia para la descomposición de sus características las cuales permiten a las personas calcular de mejor manera y mas simplificada la variable desconocida mediante el uso de información teórica.
 #### 1.2 OBJETIVO ESPECIFICOS:
 
-•	Describir y descubrir las caracteristicas del teorema de Thevenin orrespondientes para lo cual se hace uso de la información teóricas proporcionada mediante el uso de sitios web y videos tutoriales.
+•	Describir y descubrir las caracteristicas de la teoria de maxima transferencia correspondientes para lo cual se hace uso de la información teóricas proporcionada mediante el uso de sitios web y videos tutoriales.
 
-•	Analizar y calcular diferentes ejemplos de circuitos aplicando el teorema de Thevenin aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
+•	Analizar y calcular diferentes ejemplos de circuitos aplicando al voltaje y potencia aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
 ## 2 MARCO TEÓRICO:
 
 ![Primer paso](https://user-images.githubusercontent.com/104863870/179130995-42b17860-8281-45ff-bd3d-dba2eb04ff0b.png)
@@ -49,9 +49,9 @@ FECHA
 
 ![image](https://user-images.githubusercontent.com/104999420/179132280-f7637943-4e95-4076-9a69-cedf32926aef.png)
 
-Figura 3.1. Circuito para comprobar el Teorema de la MTP
+Figura 6.1. Circuito para comprobar el Teorema de la MTP
 
-3.6.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 3.1.
+3.6.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1.
 Anote los resultados medidos.
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/104999420/179132418-020cca7d-c04a-4868-8fbc-ad93cae43c50.png">
@@ -75,7 +75,7 @@ Anote los resultados medidos.
 <img width="294" alt="image" src="https://user-images.githubusercontent.com/104999420/179132689-d54e3756-b1df-4bf1-a27c-78b0ffa5d3f7.png">
 
 3.6.3. Calcule la potencia consumida por RL, para cada valor dado y anote los
-resultados en la tabla 3.1.
+resultados en la tabla 6.1.
 
 <img width="244" alt="image" src="https://user-images.githubusercontent.com/104999420/179132783-8c8357bd-e26f-4386-9968-ad797252a99c.png">
 
@@ -93,43 +93,23 @@ resultados en la tabla 3.1.
 
 <img width="329" alt="image" src="https://user-images.githubusercontent.com/104999420/179132985-4b93d684-1f91-4119-bc8e-f2e582354104.png">
 
-Figura 3.2 calculo de la potencia con la rsistencia de 220Ω
-
 <img width="323" alt="image" src="https://user-images.githubusercontent.com/104999420/179133065-10da97cb-8db3-4ac9-99ad-e4ded6893c86.png">
-
-Figura 3.3 calculo de la potencia con la rsistencia de 470Ω
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/104999420/179133089-01a43ae7-c7b9-4ef7-928c-f44689b4a383.png">
 
-Figura 3.4 calculo de la potencia con la rsistencia de 680Ω
-
 <img width="315" alt="image" src="https://user-images.githubusercontent.com/104999420/179133111-162360e0-e297-4f8c-894a-a1f85f1fbd72.png">
-
-Figura 3.5 calculo de la potencia con la rsistencia de 820Ω 
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/104999420/179133136-bdda180d-c890-4238-b767-8194864f8b79.png">
 
-Figura 3.6 calculo de la potencia con la resistencia de 1000Ω 
-
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/104999420/179133165-a4a2af31-036e-4d88-b72d-b7b7e71bdf5c.png">
-
-Figura 3.7 calculo de la potencia con la rsistencia de 1500Ω 
 
 <img width="310" alt="image" src="https://user-images.githubusercontent.com/104999420/179133190-a551792e-4517-463d-8df3-a0eb24c64755.png">
 
-Figura 3.8 calculo de la potencia con la rsistencia de 1800Ω 
-
 <img width="319" alt="image" src="https://user-images.githubusercontent.com/104999420/179133229-c2a4247f-7057-4e47-a764-602f7791aefb.png">
-
-Figura 3.9 calculo de la potencia con la rsistencia de 1200Ω 
 
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/104999420/179133302-16eafd21-61fd-4d1c-8cd0-7c6aba9bd649.png">
 
-Figura 3.10 calculo de la potencia con la rsistencia de 3900Ω 
-
 <img width="309" alt="image" src="https://user-images.githubusercontent.com/104999420/179133334-75bddeec-1f9f-45a0-945d-7ee41b3cb97a.png">
-
-Figura 3.11 calculo de la potencia con la rsistencia de 4700Ω 
 
 Anote los resultados medidos.
 
@@ -162,9 +142,9 @@ Calcular errores de las mediciones y comentar los resultados.
 
 ## 5. CONCLUSIONES:
 
-•	El teorema de Thevenin comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
+•	La teoria de transferencia maxima de potencia comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
 
-•	La resolución de ejercicios aplicando el teorema de Thevenin es tambien tener en cuenta los metodos aprendidos aplicados en las leyes de kirchoff el teorema indica que debes separar por partes cada malla del circuito.
+•	La resolución de ejercicios aplicando la teoria de maxima transferencia de potencia es tambien tener en cuenta los metodos aprendidos aplicados en las leyes de kirchoff el teorema indica que debes separar por partes cada malla del circuito.
 
 ## 6. RECOMENDACIONES:
 
