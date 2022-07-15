@@ -1,5 +1,3 @@
-# Laboratorio-5_-Dilan-Porras_Yeshua-Chiliquinga_Steven-Loza
-
 ![image](https://user-images.githubusercontent.com/105320981/169589146-23574580-d5de-43cb-825d-f510a2e4c035.png)
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS
