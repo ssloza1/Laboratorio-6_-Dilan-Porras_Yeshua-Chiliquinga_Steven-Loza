@@ -115,15 +115,15 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 <img width="429" alt="image" src="https://user-images.githubusercontent.com/104999420/179133397-8f65286a-f4fd-47c8-a2bc-0bf0e30d7026.png">
 
-3.6.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+### 3.6.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/104999420/179133811-92eff841-c679-4dd1-8858-cc24c7a4a860.png">
 
-3.6.5. ¿Cuál fue la potencia máxima en RL? _0.049_Watts
+### 3.6.5. ¿Cuál fue la potencia máxima en RL? _0.049_Watts
 
-3.6.6. ¿Para qué valor de RL se obtiene la MTP? _1500_ Ω
+### 3.6.6. ¿Para qué valor de RL se obtiene la MTP? _1500_ Ω
 
-3.6.7. Grafique la curva Potencia vs RL y comente.
+### 3.6.7. Grafique la curva Potencia vs RL y comente.
 
 ![image](https://user-images.githubusercontent.com/104999420/179133870-ea8cf7b9-0817-4a8d-ae1c-6d5fa2bf965f.png)
 
