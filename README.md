@@ -17,7 +17,9 @@ INGENIERO:
 ESTUDIANTES:
 
 DILAN PORRAS
+
 STEVEN LOZA
+
 YESHUA CHILIQUINGA
 
 TEMA DEL LABORATORIO:
@@ -38,6 +40,9 @@ FECHA
 •	Analizar y calcular diferentes ejemplos de circuitos aplicando el teorema de Thevenin aprendido anteriormente en clases para lo cual se realizarán ejercicios experimentales para la comprobación mediante simuladores virtuales.
 ## 2 MARCO TEÓRICO:
 
+![Primer paso](https://user-images.githubusercontent.com/104863870/179130995-42b17860-8281-45ff-bd3d-dba2eb04ff0b.png)
+
+
 ## 3 PROCEDIMIENTO:
 
 ## 4. VIDEO:
@@ -56,5 +61,9 @@ FECHA
 
 ## 7. BIBLIOGRAFÍA:
 
-Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
+-Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
+
+-Teorema de máxima transferencia de potencia. (2016, 5 diciembre). [Vídeo]. 
+
+YouTube. https://www.youtube.com/watch?v=uPcY8fedBdA
 
