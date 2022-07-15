@@ -138,6 +138,8 @@ Calcular errores de las mediciones y comentar los resultados.
 
 ## 4. VIDEO:
 
+https://youtu.be/7yrQO0H8QqQ
+
 ## 5. CONCLUSIONES:
 
 •	La teoria de transferencia maxima de potencia comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
