@@ -119,9 +119,9 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 <img width="398" alt="image" src="https://user-images.githubusercontent.com/104999420/179133811-92eff841-c679-4dd1-8858-cc24c7a4a860.png">
 
-### 3.6.5. ¿Cuál fue la potencia máxima en RL? _0.049_Watts
+### 3.6.5. ¿Cuál fue la potencia máxima en RL? _0.048_Watts
 
-### 3.6.6. ¿Para qué valor de RL se obtiene la MTP? _1500_ Ω
+### 3.6.6. ¿Para qué valor de RL se obtiene la MTP? _1000_ Ω
 
 ### 3.6.7. Grafique la curva Potencia vs RL y comente.
 
